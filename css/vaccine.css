@@ -1,0 +1,12 @@
+label{
+	float:left;
+	text-align: left;
+      display:block;
+      width:120px;     
+      padding-right:10px;
+
+}
+
+.carousel-inner{
+height: 600px;
+}

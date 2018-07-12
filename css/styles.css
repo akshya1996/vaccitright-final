@@ -1,0 +1,102 @@
+.btn-success
+   {
+      transition: 0.5s;
+   }
+
+   .btn-success:hover, .btn-success:focus
+   {
+      background: white;
+      border-color: #5cb85c;
+      color: black;
+      transition: all 0.4s;
+   }
+
+   .btn-warning
+   {
+      transition: 0.5s;
+   }
+
+   .btn-warning:hover, .btn-warning:focus
+   {
+      background: white;
+      color: black;
+      border-color: #f0ad4e;
+   }
+
+   .panel.with-nav-tabs .nav-tabs
+   {
+      border-bottom: none; 
+   }
+   .panel.with-nav-tabs .nav-justified
+   {
+      margin-bottom: -4px;
+   }
+
+   
+
+   .modal-header
+   {
+      background: #FF3838;
+      color: white;
+      text-align: center;
+   }
+
+   .input-group-addon
+   {
+      background-color: #5cb85c;
+      color: white;
+   }
+
+   .iga1
+   {
+      background-color: #f0ad4e;
+      color: white;
+   }
+
+   .iga2
+   {
+      background-color: #FF3838;
+      color: white;
+   }
+   .h250{
+		height:250px;
+   }
+   .fright{
+		float:right !important;
+   }
+   .mr10{
+		margin-right:10px;	
+   }
+   .calign{
+		text-align:center;
+   }
+   .cblack{
+		color:black !important;
+		font-size:xx-large;
+   }
+   .mrm15{
+		margin-top: -15px;
+   }
+   
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+body {
+  font-family: 'Open Sans', 'sans-serif';
+}
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
